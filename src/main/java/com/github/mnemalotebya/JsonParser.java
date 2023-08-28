@@ -59,6 +59,4 @@ public class JsonParser {
             throw new RuntimeException(e);
         }
     }
-
-
 }
